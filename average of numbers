@@ -1,0 +1,4 @@
+N_1=float(input("enter number:"))
+N_2=float(input("enter number:"))
+avg=(N_1+N_2)/2
+print("average=",avg)
